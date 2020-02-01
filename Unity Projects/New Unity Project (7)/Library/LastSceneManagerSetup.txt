@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/P4.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/zombie.unity
+  isLoaded: 1
+  isActive: 0
